@@ -1,7 +1,7 @@
 [package]
 name = "jili"
 license = "MIT"
-version = "0.0.0"
+version = "0.0.1"
 description = "Quant lib"
 repository = "https://github.com/aQuaYi/jili/"
 authors = ["aQua <hi@aQuaYi.com>"]
